@@ -2,6 +2,8 @@
 
 - https://www.youtube.com/watch?v=9DDX3US3kss
 
+부분적으로 막히는 부분, 레이아웃 부분에 대해서만 클론코딩을 하였음
+
 RapidApi
 
 - API를 가져 오는 곳
